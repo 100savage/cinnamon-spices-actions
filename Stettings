@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=System Settings
+Comment=System settings
+Exec=cinnamon-settings
+Icon-Name=applications-system
+Selection=None
+Extensions=any;
+Conditions=desktop;
